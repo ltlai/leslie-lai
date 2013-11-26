@@ -200,6 +200,14 @@ div.bl-panel-items > div > div {
 	line-height: 1.8;
 }
 
+.bl-content p.project-title {
+	padding-bottom: 0;
+}
+
+.project-info {
+	font-size: 1.2em;
+}
+
 .bl-content h2 {
 	font-size: 3em;
 	font-weight: 300;
@@ -499,6 +507,10 @@ section.bl-expand .bl-icon-close {
 	-webkit-transition: opacity 0.3s linear 0.5s;
 	-moz-transition: opacity 0.3s linear 0.5s;
 	transition: opacity 0.3s linear 0.5s;
+}
+
+.contact-text {
+	color: black;
 }
 
 /* --------------------------------------------------------	*/
