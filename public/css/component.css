@@ -46,6 +46,7 @@ a:hover {
 #resume a {
 	text-decoration: none;
 	font-size: 100%;
+	padding: 20% 40% 20% 40%;
 }
 
 .container { height: 100%; }
